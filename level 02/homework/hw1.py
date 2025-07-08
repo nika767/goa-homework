@@ -50,7 +50,7 @@ N2="vswavlob"
 N3="sauketeso"
 N4="saswavlebel"
 N5="GOASHI"
-print(N1 ,N2 , N3 , N4 ,N5)
+print(N1 ,N2 , N3 , N4 , N5)
 
 
 
