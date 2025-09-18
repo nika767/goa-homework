@@ -58,6 +58,8 @@ print("Combined result:", result)
 
 num1 = float(input("Enter number 1: "))
 num2 = float(input("Enter number 2: "))
+
+
 num3 = float(input("Enter number 3: "))
 num4 = float(input("Enter number 4: "))
 num5 = float(input("Enter number 5: "))
@@ -74,8 +76,4 @@ age = input("Enter your age: ")
 height = input("Enter your height (in meters): ")
 weight = input("Enter your weight (in kg): ")
 
-print(f"My name is {first_name} {last_name}, I am {age} years old, my height is {height} meters and my weight is {weight} kg.")
-
-
-
-
+print("My name is {first_name} {last_name}, I am {age} years old, my height is {height} meters and my weight is {weight} kg.")
